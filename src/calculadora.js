@@ -12,3 +12,8 @@ export function subtrair(a, b) {
 export function multiplicar(a, b) {
     return a * b;
 }
+
+// Função para testar divisão
+export function dividir(a, b) {
+    return a / b;
+}
