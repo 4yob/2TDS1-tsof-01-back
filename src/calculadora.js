@@ -7,3 +7,8 @@ export function somar(a, b) {
 export function subtrair(a, b) {
     return a - b;
 }
+
+// Função para testar multiplicação
+export function multiplicar(a, b) {
+    return a * b;
+}
